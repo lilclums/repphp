@@ -7,13 +7,13 @@
     <title>funcion 1</title>
 </head>
 <body>
- 
+<h1>numero mayor</h1>
 <form action="" method="POST" class="form"> 
 <p>numero 1</p>
-<input name="parcial1" type="number" step="any" class="input">
+<input name="numero1" type="number" step="any" class="input">
 <br>
-<p>Numero 1</p>
-<input name="parcial2" type="number" step="any" class="input">
+<p>Numero 2</p>
+<input name="numero2" type="number" step="any" class="input">
 <br>
 <button type="submit" class="enviar" >Enviar</button>
 
@@ -22,5 +22,16 @@
 </body>
 </html>
 <?php 
+    $num = $_POST["numero1"];
+    $num2 = $_POST["numero2"];
 
+    function NumeroMayor($arrayNumero)
+    {
+      $mayor=0;
+      foreach ($arrayNumero as $num2) {
+        if ($num>$num2)
+         $mayor = $num;
+      }
+      return $mayor;
+    }
 ?>
