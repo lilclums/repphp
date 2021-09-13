@@ -75,13 +75,13 @@ echo "<br>'objetos'<br>";
 
 echo '<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>';
 //objeto
-$statement=$conexion->prepare("insert into abc values ('mouse','35','squeak','wild')");
-$statement->execute();
-
-while ($key=$statement->fetch(PDO::FETCH_OBJ)) {
-    echo $key->nombre.'<br>';
-}
-echo "<br>'objetos'<br>";
+//$statement=$conexion->prepare("insert into abc values ('mouse','35','squeak','wild')");
+//$statement->execute();
+//
+//while ($key=$statement->fetch(PDO::FETCH_OBJ)) {
+//    echo $key->nombre.'<br>';
+//}
+//echo "<br>'objetos'<br>";
 //var_dump($conexion);
 //echo '<br>';
 //print_r($conexion);
