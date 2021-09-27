@@ -45,13 +45,15 @@ var even=(array)=>{
     let suma =0;
     for (let i = 0; i < array.length; i++) {
         if(array[i] % 2 === 0){
-          suma+=array[i] ;
+          suma+=v[i] ;
         }        
   }
+  return suma;
 }
 
-v=[];
-console.log('...'+even(v));
+
+console.log('arrow... '+vec(v,x));
+console.log('... '+even(v));
 
 
 //haver; sumar todo, promedio, mayor, menor, moda, mediana, desviacion estandar
