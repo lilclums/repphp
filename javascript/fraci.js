@@ -1,4 +1,4 @@
-var frac={
+var fracion={
     n1:1,
     n2:2,
     d1:2,
@@ -29,10 +29,11 @@ var frac={
     }
 }
 
-console.log(frac.suma());
 
-console.log(frac.resta());
+console.log(fracion.suma());
 
-console.log(frac.multi());
+console.log(fracion.resta());
 
-console.log(frac.divi());
+console.log(fracion.multi());
+
+console.log(fracion.divi());
