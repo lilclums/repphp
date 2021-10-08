@@ -1,0 +1,13 @@
+En la carpeta "Portafolio" encotraremos tres carpetas llamadas Controller, model y views repectivamente, junto con ellas 
+observaremos los archivos router.php e index.php junto con un archivo llamado usuarios.sql.
+
+Para lograr poner en marcha la pagina deberemos iniciar la aplicacion xampp(debera estar instalada previamente en el equipo), 
+iniciaremos apache y MySQL dando clic en "start" y despues nos dirigiremos a la pagina "http://localhost/phpmyadmin/index.php" 
+donde daremos clic en "nueva" a nuestra izquierda en la pantalla y el nombre que le daremos a nuestra nueva base de datos 
+sera llamada "MVC"(tenga en cuenta que las mayusculas son obligatorias).
+
+El siguente paso es dar clic en importar y en la carpeta de portafolio, elegir el archivo llamado "usuarios.sql" daremos clic 
+en continuar.
+
+Ya con la base de datos creada, todo lo que tendremos que hacer es escribir en el navegador a utilizar la direccion
+"http://127.0.0.1/php214/portafolio/index.php" para poder visualizar la pagina.
