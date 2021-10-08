@@ -5,7 +5,7 @@
         
     </div>
 
-    <div class="row gx-3" style=" margin-left:80px" >
+    <div class="row gx-3" style=" margin-left:80px;text-align:center" >
 
         <div class="card" style="width: 15rem;background-color:rgba(90, 0, 0, 0.4);color:white">
             <img src="
@@ -36,7 +36,7 @@
        <div class="card" style="width: 15rem;background-color:rgba(90, 0, 0, 0.4);text-transform:uppercase;color:white">
             <img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" class="card-img-top" alt="linkedIn" style="height:15rem">
             <div class="card-body">
-                <p class="card-text">Cuenta de linked In.</p>
+                <p class="card-text">Cuenta de linkedIn.</p>
                 <a href="https://www.linkedin.com/in/leyne-sarena-linares-rodriguez-190594208/" class="btn btn-primary" style="">Usuario</a>
             </div>
         </div>

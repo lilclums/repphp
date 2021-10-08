@@ -14,18 +14,18 @@
         <div class="container overflow-hidden" style="margin:5px;margin-top:30px;margin-bottom:30px">
             <div class="row gx-3">
                 <div class="col">
-                    <div class="p-5 border ">Bachillerato: Institución educativa integrado de soacha.</div>
+                    <div class="p-5 border" style="text-align:center"><p>Bachillerato:</p><p> Institución educativa integrado de soacha.</p></div>
                 </div>
                 <div class="col">
-                    <div class="p-5 border ">Certificados: Tecnico en asisistencia administrativa(SENA)</div>
+                    <div class="p-5 border" style="text-align:center"><p>Certificados:</p> <p>Tecnico en asisistencia administrativa(SENA)</p></div>
                 </div>
             </div>
             <div class="row gx-3">
                 <div class="col">
-                    <div class="p-5 border ">Idiomas manejados / en estudio: Español, Inglés</div>
+                    <div class="p-5 border" style="text-align:center"><p>Idiomas manejados / en estudio:</p><p> Español, Inglés.</p></div>
                 </div>
                 <div class="col">
-                    <div class="p-5 border ">Estudiando: Análisis e información de sistemas de información.</div>
+                    <div class="p-5 border" style="text-align:center"><p>Estudiando:</p><p> Análisis e información de sistemas de información.</p></div>
                 </div>
             </div>
         </div>
