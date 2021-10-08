@@ -10,4 +10,4 @@ El siguente paso es dar clic en importar y en la carpeta de portafolio, elegir e
 en continuar.
 
 Ya con la base de datos creada, todo lo que tendremos que hacer es escribir en el navegador a utilizar la direccion
-"http://127.0.0.1/php214/portafolio/index.php" para poder visualizar la pagina.
+"http://127.0.0.1/(nombre de la carpeta/s donde se encuentre la carpeta portafolio)/portafolio/index.php" para poder visualizar la pagina.
