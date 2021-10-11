@@ -5,8 +5,16 @@ class ControladorArchivo{
         include_once("views/Archivo/archivo.php");
     }
 
-    public function inicio(){
-        include_once("views/Archivo/inicio.php");
+    public function MUsuario(){
+        include_once("views/Archivo/MUsuario.php");
+    }
+
+    public function MTecnico(){
+        include_once("views/Archivo/MTecnico.php");
+    }
+
+    public function JavaS(){
+        include_once("views/Archivo/JavaS.php");
     }
 }
 
